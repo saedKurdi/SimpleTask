@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.exe
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.deps.json
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.runtimeconfig.json
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.dll
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\bin\Debug\net6.0\DelegateTask.pdb
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.dll
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\refint\DelegateTask.dll
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.pdb
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\DelegateTask.genruntimeconfig.cache
+C:\Users\Asus\source\repos\DelegateTask\DelegateTask\obj\Debug\net6.0\ref\DelegateTask.dll

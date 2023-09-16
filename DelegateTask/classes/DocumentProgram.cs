@@ -1,0 +1,22 @@
+﻿using System.Net.WebSockets;
+
+namespace DelegateTask.classes
+{
+    internal class DocumentProgram
+    {
+        public void OpenDocument()
+        {
+            Console.WriteLine("Document Was Opened !");
+        }
+
+        public virtual void EditDocument()
+        {
+            Console.WriteLine("Can Edit in Pro and Expert versions !");
+        }
+
+        public virtual void SaveDocument()
+        {
+            Console.WriteLine("Can Save in Pro and Expert versions !");
+        }
+    }
+}
